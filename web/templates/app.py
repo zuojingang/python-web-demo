@@ -8,7 +8,7 @@ import asyncio
 import sys
 from aiohttp import web
 sys.path.append("../../")
-from backend.common import db_conn
+from src.common import db_conn
 
 logging.basicConfig(level=logging.INFO)
 

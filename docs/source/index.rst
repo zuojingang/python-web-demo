@@ -5,7 +5,7 @@ Welcome to python-web-demo's API Documentation
    :maxdepth: 2
    :caption: python-web-demo's API:
 
-   test
+   dbconn
 
 .. Indices and tables
 .. ==================
