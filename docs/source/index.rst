@@ -6,6 +6,7 @@ Welcome to python-web-demo's API Documentation
    :caption: python-web-demo's API:
 
    dbconn
+   test
 
 .. Indices and tables
 .. ==================
