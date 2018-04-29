@@ -1,8 +1,0 @@
-README.md
-setup.py
-src/__init__.py
-src/python_web_demo.egg-info/PKG-INFO
-src/python_web_demo.egg-info/SOURCES.txt
-src/python_web_demo.egg-info/dependency_links.txt
-src/python_web_demo.egg-info/requires.txt
-src/python_web_demo.egg-info/top_level.txt
